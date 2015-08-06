@@ -43,3 +43,9 @@ An introductory note to the front-end world.
 - color, font, etc
 
 ## Sass
+- import, export
+- nesting, &
+- variable
+- mixin, function
+- directive @if @else @for @each
+- (library) compass
